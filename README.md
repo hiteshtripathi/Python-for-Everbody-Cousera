@@ -21,7 +21,7 @@ Also [here](https://www.py4e.com/html3/) is the link to the HTML version of Char
 
 ### Incredible Lecturer
 
-Without him existing on a planet I probably would never got interest in programming at all.
+Without him existing on a planet I probably would never got interested in programming at all.
 Professor Charles Severance, University of Michigan.
 
 ![Cover](https://github.com/hiteshtripathi/Python-for-Everbody-Cousera/blob/master/cover.jpg)
